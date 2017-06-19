@@ -11,9 +11,11 @@ You can install Trial on your Mac or Windows Laptop in less than 15 minutes and 
 <li> I clicked on "Launch IGC Console", It took me to the browser but there is some certificate/security error.
 
 <li> I already have docker installed on my laptop, will you use existing install of docker or replace it?
+
 We will only install Docker, if you do not have it installed or you have older Docker toolbox installed on your Mac. On Windows laptop, we do not install Docker at all. User installs Docker and come back to IGC app to install.
 
 <li> Which versions of Windows operating system are supported for IGC Trial?
+
 Windows 10 Enterprise
 
 Windows 10 Professional
