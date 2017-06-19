@@ -21,7 +21,7 @@ Windows 10 Education
 <li> On Mac, I see the warning message during install:
 "IBM IGC Trial can't be opened because it is from an un-identified developer"
 
-You would need to go to your Mac -> System Preferences -> Security & Privacy -> Open Anyway under Allow Apps downloaded From section. You can also refer to Mac help from: https://support.apple.com/kb/PH25088?locale=en_US
+You would need to go to your Mac -> System Preferences -> Security & Privacy -> Open Anyway under Allow Apps downloaded From section. You can also refer to Mac help on this topic [here](https://support.apple.com/kb/PH25088?locale=en_US)
 
 <li> The app was successfully installed on my laptop, but IGC console or guided tutorial is not launching.
 
