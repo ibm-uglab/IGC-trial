@@ -23,19 +23,19 @@ fi
 echo
 echo 'Checking for the old IGC images...'
 echo
-oldImages=$(docker ps -a | grep "app_integrate" | awk '{ print $3 }');
+oldImages=$(docker images -a | grep "app_integrate" | awk '{ print $3 }');
 if [ ! -z "$oldImages" -a "$oldImages"!=" " ]
 then
 	docker rmi -f $oldImages;
 fi
 
-oldImages=$(docker ps -a | grep "ibm_igc" | awk '{ print $3 }');
+oldImages=$(docker images -a | grep "ibm_igc" | awk '{ print $3 }');
 if [ ! -z "$oldImages" -a "$oldImages"!=" " ]
 then
 	docker rmi -f $oldImages;
 fi
 
-oldImages=$(docker ps -a | grep "igc_image" | awk '{ print $3 }');
+oldImages=$(docker images -a | grep "igc_image" | awk '{ print $3 }');
 if [ ! -z "$oldImages" -a "$oldImages"!=" " ]
 then
 	docker rmi -f $oldImages;
