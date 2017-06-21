@@ -10,7 +10,7 @@ You can install the Trial on your Mac or Windows Laptop in less than 15 minutes 
 ### FAQ
 
 
-<li> I already have docker installed on my laptop, will you use existing install of docker or replace it?
+<li> I already have docker installed on my laptop, will you use the existing install of docker or replace it?
 
 We will only install Docker if you do not have it installed, or you have an older Docker toolbox installed on your Mac. On a Windows laptop, we do not install Docker at all. 
 
