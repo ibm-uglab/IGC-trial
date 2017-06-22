@@ -32,7 +32,7 @@ for /F "tokens=3" %%C in ('"docker images | find "app_integrate""') DO (
 	set taggedImage=%%C
 	docker rmi -f !taggedImage!
 	)
-for /F "tokens=3" %%D in ('"docker images | find "hello""') DO (
+for /F "tokens=3" %%D in ('"docker images | find "igc_image""') DO (
 	set taggedImage=%%D
 	docker rmi -f !taggedImage!
 )
