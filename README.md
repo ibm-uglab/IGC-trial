@@ -41,4 +41,4 @@ The app installation takes no more than 15 mins on a standard network download s
 
 <li> I want to uninstall the IGC.
 
-Use the script posted in the repository. Scripts are different for different operating systems. Download the scripts and from your terminal go to the dorectory where you have downloaded the script. Just run `./<script-name.ext>`. By doing this, we will remove the IGC container as well as the IGC docker image from your machine. 
+Use the script posted in the repository. Scripts are different for different operating systems. `clearIGC_Mac.sh` and `clearIGC_Win.bat` for mac and windows respectively. Download the scripts and from your terminal go to the directory where you have downloaded the script. Just run `./<script-name.ext>` it will remove the IGC container as well as the IGC docker image from your machine. 
