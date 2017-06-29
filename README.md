@@ -38,3 +38,7 @@ IGC Trial app requires Docker's resources to be increased to 4GB. In addition, i
 <li> My app installation seems to be hung with installation bar 80% for more than 20 mins.
 
 The app installation takes no more than 15 mins on a standard network download speed of 15 - 20 MBPS. A typical corporate VPN will likely limit the download speed so user must consider this while waiting to finish the install. If you loose an  internet connection during the install, restart the install application when your connection is restored. In some cases, rebooting your laptop and restarting the application will complete the installaltion successfully.
+
+<li> I want to uninstall the IGC.
+
+Use the script posted in the repository. Scripts are different for different operating systems. Download the scripts and from your terminal go to the dorectory where you have downloaded the script. Just run `./<script-name.ext>`. By doing this, we will remove the IGC container as well as the IGC docker image from your machine. 
