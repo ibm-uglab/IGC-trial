@@ -37,9 +37,13 @@ IGC Trial app requires Docker's resources to be increased to 4GB. In addition, i
 The app installation takes no more than 15 mins on a standard network download speed of 15 - 20 MBPS. A typical corporate VPN will likely limit the download speed so user must consider this while waiting to finish the install. If you loose an  internet connection during the install, restart the install application when your connection is restored. In some cases, rebooting your laptop and restarting the application will complete the installaltion successfully.
 
 <li> For windows 7 users:
+
 You must enable Virtualization Technology (VT-X) on your BIOS.
+
 During the Docker Toolbox installation, accept the default components to install VirtualBox too.
+
 In the beginning of the installation, Please make sure to provide root password when prompted.
+
 
 <li> I want to uninstall the IGC.
 
