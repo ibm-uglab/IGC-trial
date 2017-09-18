@@ -7,7 +7,8 @@
   },
   "win32-x64-prod": {
     "readme": "Second release",
-    "update": "https://github.com/ibm-uglab/IGC-trial/blob/master/stagingOnly/win/",
+    "update": "https://github.com/ibm-uglab/IGC-trial/raw/master/stagingOnly/win/",
+    "install": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/stagingOnly/win/IBM%20IGC%20Trial%20Setup%201.2.5.exe",
     "version": "1.2.5"
   },
   "darwin-x64-prod": {
@@ -17,4 +18,3 @@
     "version": "1.2.5"
   }
 }
-
