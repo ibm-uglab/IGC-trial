@@ -1,4 +1,5 @@
-"linux-x64-prod": {
+{
+  "linux-x64-prod": {
     "readme": "Second release",
     "update": "https://github.com/ibm-uglab/IGC-trial/blob/master/stagingOnly/linux",
     "install": "https://github.com/ibm-uglab/IGC-trial/blob/master/stagingOnly/linux",
@@ -16,3 +17,4 @@
     "version": "1.2.5"
   }
 }
+
