@@ -12,7 +12,7 @@
   },
   "darwin-x64-prod": {
     "readme": "fourth Release",
-    "update": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/osx/",
+    "update": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/osx/release.json",
     "install": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/osx/IBM%20IGC%20Trial-1.2.6.dmg",
     "version": "1.2.6"
   }
