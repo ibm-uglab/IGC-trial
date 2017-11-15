@@ -8,12 +8,12 @@
   "win32-x64-prod": {
     "readme": "fourth release",
     "update": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/win/",
-    "version": "1.2.5"
+    "version": "1.2.6"
   },
   "darwin-x64-prod": {
     "readme": "fourth Release",
     "update": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/osx/updates.json",
     "install": "https://raw.githubusercontent.com/ibm-uglab/IGC-trial/master/updatesOnly/encrypt/release/osx/IBM%20IGC%20Trial-1.2.6.zip",
-    "version": "1.2.5"
+    "version": "1.2.6"
   }
 }
