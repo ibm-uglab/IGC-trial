@@ -7,6 +7,11 @@ IBM IGC Trial provides a window to the data in your enterprise so you easily cre
 
 You can install the Trial on your Mac or Windows Laptop in less than 15 minutes and start with a guided tutorial which will walk you through the actual product while performing a Data Steward use case. You can visit our [IGC forum](https://developer.ibm.com/answers/topics/igc/) for asking product related questions. You can also refer to our FAQ section here and open an issue for unanswered question.
 
+#### IGC on boarding tool
+
+Information Governance Catalog (IGC) is a interactive web-based tool that allows users to explore, understand and analyze information. InfoSphere Metadata Asset Manager (IMAM) can be used to onboard technical metadata from sources that have out-of-box connectors and the Open IGC, a REST-based interface can be used to onboard metadata from non-traditional sources of technical metadata. 
+The IGC on boarding tool was designed to help facilitate the creation of Open IGC asset bundles and populate metadata for Open IGC asset bundle. This can be accessed through https://localhost:9443/igc_utility/ and there is a demo walkthrough that opens up to help understand the steps in the Open IGC asset bundle creation process. There are two options to upload metadata to the Open IGC asset bundles, a bulk import button “Bulk Import Asset Instances to IGC” and a separate interface to manually add individual assets https://localhost:9443/igc_utility/igc_asset_instance.html. There is also an interface to bulk import data lineage from CSV files and “Bulk Upload Flows/Data Lineage to IGC”.
+
 ### FAQ
 
 
